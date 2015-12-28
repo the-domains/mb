@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: The road to success starts in 2016
-datePublished: '2015-12-28T11:33:08.982Z'
-dateModified: '2015-12-28T11:32:54.976Z'
+datePublished: '2015-12-28T22:45:35.406Z'
+dateModified: '2015-12-28T22:30:59.278Z'
 title: Fashion Technology Entrepreneur
 author: []
 sourcePath: _posts/2015-12-28-fashion-technology-entrepreneur.md
