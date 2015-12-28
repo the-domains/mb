@@ -1,0 +1,28 @@
+name: MB
+favicon: null
+layout_spectrum: 0.560553104383871
+typography_spectrum: 0.9347036588005722
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7902023089118302
+  lightness: 0.4326459674630314
+  saturation: 0.7130203172564507
+  rhythmicContrast: 0.0016166472341865301
+purpose: []
