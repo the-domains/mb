@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MB]]></title>
+        <description><![CDATA[MB]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Dec 2015 11:07:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fashion Technology Entrepreneur]]></title>
+            <description><![CDATA[<article><h1>Fashion Technology Entrepreneur</h1><p>2015 has been an exciting year, 'Looks Good On Me' has made impressive progress, and the future is looking bright. The business won best startup in the prestigious 'Prince Abdulaziz Bin Abdullah International Award for Entrepreneurs' competition, and we have been heralded as a game changer by 'London's Disrupt Magazine'. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71a39934a771c8e1d88e11e9658091f8251543b9.png"></article>]]></description>
+            <link>undefinedfashion-technology-entrepreneur/index.html</link>
+            <guid isPermaLink="false">35c811d5-775a-4044-a825-b5987d09f1a7</guid>
+            <pubDate>Mon, 28 Dec 2015 11:07:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
